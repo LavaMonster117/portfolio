@@ -1,6 +1,4 @@
 - This is a list of commands for reference in case I forget. 
-- NOTE: To read this in a more organized manner click the <> button upper right corner of this window entitled "display the source blob" Otherwise you'll be on "display the rendered blob" and that just looks terrible.
-
 
 ---NAVIGATING/CREATING FILES ON YOUR COMPUTER---
 - cd folderName = changes directory
