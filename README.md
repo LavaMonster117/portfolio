@@ -7,4 +7,6 @@ The Agenda:
 
 Welcome to my portfolio... just started today 2/3/2023. I'll definitely be updating this over time and the big picture comes together. Hope it accurately demonstrates what I've learned and ability to progress. I hope to make lots of mistakes so I can learn and become even more POWERFUL!!!
 
+Note: 2 contributors here are both my accounts "LavaMonster117" and "VikingGhost117"
+
 Bon appetit.
