@@ -24,7 +24,7 @@ Expected Result:
 - All Emojis respective icon and subtext populates the bottom left element
 
 Link to see video demo of bug: 
-https://www.screencast.com/t/s0XIJ5qo
+https://www.screencast.com/t/bVxHWD2Sdl
 
 
 ACCEPTANCE CRITERIA: That the first 5 rows behave the same as the rest of the emojis, populating their sub-info and image in the bottom left of the emoji options window.
