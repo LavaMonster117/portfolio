@@ -21,13 +21,22 @@ git branch -d BranchNameToBeDeleted = Deletes whatever branch you specified (not
 
 
 ---PUSHING CHANGES TO YOUR REPO---
+NOTE: this is important before pushing changes to a branch otherwise it won't work. If the branch can't identify who you are or where the code is coming from then it won't allow you to add/push your changes
+git config -- global user.email "yourEmail@wherever.com"
+git config --global user.name "Your Name"
+
+git add . = adds all files and changes in your branch/directory that you want to push to the repo
+git config -m "This adds a message/description of whatever you want to say here, typically what you're pushing and what it does. You can aslo manually add a message in the github repo webpage, but this saves you that step."
 git push = pushes your changes to the repo
-git push -u origin <branch> = pushes the branch to repo. I believe -u stands for "upstream"... 
+git push origin branchName = pushes the branch to repo. Will also have a resulting link you can click to take you directly to the repo wher eyou can review the pull request and then commit it to the main branch.
+
+---EXTRA FOR PUSHES---
 there's also "--set-upstream" if you're setting up for the first time an pushing all your branches to the github remote repo. and also "git push --all -u" which pushes all branches
-git push origin branchName:README.md = pushes your branch and specific FIle in the branch to the github to be reviewed and committed
+git push origin branchName:README.md = pushes your branch and specific File in the branch to the github to be reviewed and committed
+In most cases for working on a company's software you'll need to set up an SSH key which is basically a key/password that grants you access to the company repos before you can start viewing the code and committing changes. You'll want to save that key somewhere in case it comes up and asks for it again otherwise I'm currently unaware if it's retrievable... I should be but I just don't know how to do that yet because I haven't had to deal with that problem.
 
 
 
 ---BONUS FRIES--- (my cousin's term for when you're out of fries... but then you find one hidding in the bag... thanks cuz)
-CTRL+C = terminates the process of your gitbash... for example you don't want to finish pushing your branch, or you want to close your cypress automation code run
+CTRL+C = terminates the process of your gitbash... for example you don't want to finish pushing your branch because you forgot to save when you did all that stuff up above here, or you want to close your cypress automation code run
 
