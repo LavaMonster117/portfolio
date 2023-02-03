@@ -1,4 +1,4 @@
-This is a list of commands for reference in case I forget.
+This is a list of commands for reference in case I forget. NOTE: To read this in a more organized manner click the <> button upper right corner of this window entitled "display the source blob" Otherwise you'll be on "display the rendered blob" and that just looks terrible.
 
 
 ---NAVIGATING/CREATING FILES ON YOUR COMPUTER---
@@ -13,7 +13,6 @@ git pull = pulls changes and updates current repo
 
 
 ---BRANCHES---
-git commit = commits changes to repo
 git branch = lists all branches in repo
 git branch branchName = changes to a specific branch on the list.... branchNameBeing the example. "git branch main" switches to main branch
 git checkout -b newBranchName = creates a new branch "newBranchName"
@@ -26,7 +25,7 @@ git config -- global user.email "yourEmail@wherever.com"
 git config --global user.name "Your Name"
 
 git add . = adds all files and changes in your branch/directory that you want to push to the repo
-git config -m "This adds a message/description of whatever you want to say here, typically what you're pushing and what it does. You can aslo manually add a message in the github repo webpage, but this saves you that step."
+git commit -m "This adds a message/description of whatever you want to say here, typically what you're pushing and what it does. You can aslo manually add a message in the github repo webpage, but this saves you that step."
 git push = pushes your changes to the repo
 git push origin branchName = pushes the branch to repo. Will also have a resulting link you can click to take you directly to the repo wher eyou can review the pull request and then commit it to the main branch.
 
