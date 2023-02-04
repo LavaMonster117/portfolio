@@ -10,7 +10,7 @@ Well it looks like this: 1,2,3,5,8,13, etc.
 These numbers in the tech/QA/dev world are used to describe the amount of time a task will take to complete.  
 This number can be revised because sometimes you encounter unseen obstacles that were not previously anticipated.
 
-<strong>A number associated with a Jira ticket/task would mean:</strong>
+<strong>A number associated with a Jira ticket/task would mean:</strong>  
 1 = Takes less than a day to accomplish, sometimes 5 minutes, sometimes the full day  
 2 = 1-2 days  
 3 = 2-3 days  
