@@ -8,7 +8,8 @@
 
 --GET REPO FROM GITHUB PROJECT--
 - git clone "RepoName/example" = clones a repo/project from github into whatever current file location you're in.
-- git pull = pulls changes and updates current repo
+- git pull = When on main or master branch, this command pulls changes and updates your local main/master from the remote repo (GOOD PRACTICE)
+- git pull origin main = After doing a "git pull" to your local main branch, you can switch branches, typ in this command, and that will pull down changes from the local main to your local branch. This is important to avoid conflicts and that you're up to date with the current repo. (GOOD PRACTICE)
 
 
 ---BRANCHES---
