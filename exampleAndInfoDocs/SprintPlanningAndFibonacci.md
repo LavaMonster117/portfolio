@@ -65,6 +65,8 @@ you can copy and paste the code below into: https://onecompiler.com/javascript
 click the "Run" Button and see what pops out! I'd like to thank StackOverflow ;)
 
 
+
+```
 //prints the Fibonacci sequence as seperate numbers then all together as an array "numTimes"  
 let firstNum = 0;  
 let secondNum = 1;  
@@ -81,3 +83,4 @@ someArray[j] = nextNum;
 console.log(nextNum);}
 
 console.log(`\nYour Fibonacci sequence is:\n${someArray}`);
+```
