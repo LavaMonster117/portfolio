@@ -1,16 +1,16 @@
-#The Corelation of Fibonacci Sequence and Sprint Planning:
+<h1>The Corelation of Fibonacci Sequence and Sprint Planning:</h1>
 
-###Sprint - a period of time set asside for a team of developers, QAs, designers, and everyone else involved with the team to accomplish a series of tickets classified as Epics, Stories, tasks, bugs, etc.
+<h3>Sprint - a period of time set asside for a team of developers, QAs, designers, and everyone else involved with the team to accomplish a series of tickets classified as Epics, Stories, tasks, bugs, etc.</h3>
 A sprint typically lasts 2-3 weeks.
 Epic is one massive story that needs to be broken down into smaller tasks we just call "Stories"
 Stories can be broken down further into various types of tasks (i.e. resolving bug ticket; designing front end; developing front end; and same with back end)
 
-###How does the Fibonacci sequence come into play?  
+<h3>How does the Fibonacci sequence come into play?</h3>
 Well it looks like this: 1,2,3,5,8,13, etc.  
 These numbers in the tech/QA/dev world are used to describe the amount of time a task will take to complete.  
 This number can be revised because sometimes you encounter unseen obstacles that were not previously anticipated.
 
-A number associated with a Jira ticket/task would mean:  
+<strong>A number associated with a Jira ticket/task would mean:</strong>
 1 = Takes less than a day to accomplish, sometimes 5 minutes, sometimes the full day  
 2 = 1-2 days  
 3 = 2-3 days  
@@ -58,7 +58,7 @@ the more responsibilities will be extended to you, and be fore you know it your 
 you're getting raises and bonuses left and right and you're in the 6-figure club.
 
 
-##Some JavaScript I learned because as an unemployed man... I suddenly have a lot of time.
+<h2>Some JavaScript I learned because as an unemployed man... I suddenly have a lot of time.</h2>
 Fibonacci Sequence described as code:
 
 you can copy and paste the code below into: https://onecompiler.com/javascript
