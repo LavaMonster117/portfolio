@@ -1,4 +1,4 @@
-#The Corelation of Fibonacci Sequence and Sprint Planning:
+<h1>The Corelation of Fibonacci Sequence and Sprint Planning:</h1>
 
 ###Sprint - a period of time set asside for a team of developers, QAs, designers, and everyone else involved with the team to accomplish a series of tickets classified as Epics, Stories, tasks, bugs, etc.
 A sprint typically lasts 2-3 weeks.
