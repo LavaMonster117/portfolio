@@ -64,15 +64,20 @@ Fibonacci Sequence described as code:
 you can copy and paste the code below into: https://onecompiler.com/javascript
 click the "Run" Button and see what pops out! I'd like to thank StackOverflow ;)
 
-//prints fibonacci sequence 10 times  
-let firstNum = 0;  
-let secondNum = 1;  
+
+//prints the Fibonacci sequence as seperate numbers then all together as an array "numTimes"
+let firstNum = 0;
+let secondNum = 1;
 let answer = 0;
+let someArray = [];
 
-let numTimes = 10 // change this value for how many times you want to repeat the sequence  
-for (let i = 1; i <= numTimes; i++){  
-nextNum = firstNum + secondNum;  
-firstNum = secondNum;  
+let numTimes = 10 // change this value for how many times you want to repeat the sequence
+
+for (let i = 1, j = 0; i <= numTimes; i++, j++){
+nextNum = firstNum + secondNum;
+firstNum = secondNum;
 secondNum = nextNum;
-
+someArray[j] = nextNum; 
 console.log(nextNum);}
+
+console.log(`\nYour Fibonacci sequence is:\n${someArray}`);
