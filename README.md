@@ -38,6 +38,6 @@ There are currently 2 contributors to this repo and both accounts ("LavaMonster1
             <li>The Piano... suck at reading notes but I somehow managed to learn "Claire De Lune" by memorizing it.</li>
             <li>The guitar (written roughly 100 songs... of which 15 are probably actually worth listening to. My have a few different styles, mainly a Foo-Fighters-esque indi-rock, mild punk, and a Rochmoninov classical)</li>
         </ol></li>
-    <li><>I spend my free time gaming, writting, and learning tools for video game dev. I probably have roughly 500 pgs worth of ideas; story lines for books, movies, and games.</li>
+    <li>I spend my free time gaming, writting, and learning tools for video game dev. I probably have roughly 500 pgs worth of ideas; story lines for books, movies, and games.</li>
 </ul>
 
