@@ -1,5 +1,7 @@
 <h1>Welcome to My Portfolio!</h1>
-<em>My goal here is to adequately showcase my Manual and Automation QA skills share what I've learned, and update this portfolio with best practices over time as I refine my skills.</em>
+<em>My goal here is to adequately showcase my Manual and Automation QA skills share what I've learned, and update this portfolio with best practices over time as I refine my skills. This will also act as a teaching environment for people I know who are interested in becoming a QA Engineer. My hopes are to establish a valuable repo to draw from if I were ever to a part of establishing a QA department for a startup, or in the event I become rusty with certain tools and need a refresher, I can just come right back here.
+    
+Just started today 2/3/2023. I hope to make lots of mistakes so I can learn and become even more POWERFUL!!! </em>
 
 <h1>This Repo's Agenda/To do List:</h1>
 <ul>
@@ -9,9 +11,9 @@
 
 
 <h2>Why Do This?</h2>
-Just started today 2/3/2023. I hope to make lots of mistakes so I can learn and become even more POWERFUL!!!  
 
-As I learn from those companies I will continue to update my repos for my own learning purposes, as well as educating people interested in becoming a QA Engineer. This could also become valueable if I ever become part of a startup that has no QA department and needs that set up, so this will work as a solid template to go off of in time. This also helps me to keep up on my QA knowledge and skill set, especially if I need a refresher on tools I may not use for a while.  
+
+T 
 
 <h3>CONTRIBUTORS NOTE:</h3> 
 There are currently 2 contributors to this repo and both accounts ("LavaMonster117" and "VikingGhost117") are mine.
