@@ -85,5 +85,5 @@ firstNum = secondNum;
 secondNum = nextNum;  
 someArray[j] = nextNum;   
 console.log(nextNum);}
-console.log(`\nYour Fibonacci sequence is:\n${someArray}`);
+console.log(`\nYour Fibonacci sequence up to ${numPlaces} is:\n[${someArray}]`);
 ```
