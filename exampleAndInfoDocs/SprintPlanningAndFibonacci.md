@@ -90,3 +90,5 @@ someArray[j] = nextNum;
 console.log(nextNum);}
 console.log(`\nYour Fibonacci sequence up to ${numPlaces} is:\n[${someArray}]`);
 ```
+
+<h3><em>CONGRATS!!! You're now a programmer! I'd get a few more skills under your belt before you go applying for any developer positions but I'm serious... you helped write a program, you ran the code, the code did what you expected, or if it didn't you hopefully fixed it, and if it did after that... You're a programmer</em></h3>
