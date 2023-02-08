@@ -1,47 +1,48 @@
 <h1>The Corelation of Fibonacci Sequence and Sprint Planning:</h1>
 
-<h3>Sprint - a period of time set asside for a team of developers, QAs, designers, and everyone else involved with the team to accomplish a series of tickets classified as Epics, Stories, tasks, bugs, etc.</h3>
-A sprint typically lasts 2-3 weeks.
-Epic is one massive story that needs to be broken down into smaller tasks we just call "Stories"
-Stories can be broken down further into various types of tasks (i.e. resolving bug ticket; designing front end; developing front end; and same with back end)
+<h3>Sprint - a period of time set asside for a team of developers, QAs, designers, and anyone else involved with completing a story, or an epic.</h3>
+
+First you have an Epic... which is a massive story... say "The Lord of the Rings" for example.  
+From there you have a series of smaller stories that make up the Epic: 
+- "The Hobbit"
+- "The Fellowship of The Ring" 
+- "The Two Towers" 
+- "The Return of The King" 
+
+Those stories are broken into a series of sprints, which consist of tasks that should be completed, bug tickets fixed, new features introduced... to continue our analogy you could think of SPRINTS as Chapters in each book.
+
+Then you have the specific individual tasks themselves which are delegated to different team members to accomplish depending on their roles. The Designer designs the Home page of the website, the front end developer translate that image to functioning interactable objects on a real URL for the Home website. The Backend handles what happens under the hood of the car that you don't see that makes all the functionality of the website/software possible. DevOps works on security for the website, and evenutally we make it alllll the way down to us, THE QA. where we ensure that the website functions as intended.
+
+To continue the analogy... In Chapter four, you meet some main characters, the main character has a feast, the main character receives their mission to bear the ring. I honestly haven't read the books so don't quote me on that, but you get the idea. Each task represents a ticket that must be accomplished in order for the sprint, the story, and the epic to progress.
+
+So when we talk about sprint planning, your team sits around and discusses and assigns relevant tickets they think they can accomplish within anywhere from a 1-4 week period. Your typical sprint is 2 weeks. This is determined by how big the project is, and the known variables. Then your team gives these tickets a number to determine their complexity, difficulty, and amount of time needed to adequatly finish those tasks. Thus we arrive to the number system of the Fibonacci sequence.
 
 <h3>How does the Fibonacci sequence come into play?</h3>
-Well it looks like this: 1,2,3,5,8,13, etc.  
-These numbers in the tech/QA/dev world are used to describe the amount of time a task will take to complete.  
-This number can be revised because sometimes you encounter unseen obstacles that were not previously anticipated.
+The Sequence: 1,2,3,5,8,13, etc.  
+Can you see the pattern? you take the first number and add it to the second number to get the third number (1+2 = 3); the second plus the third to get the fourth (2+3 = 5) and so on. It is a sequence that can be found in nature, and often results in the most visually beutiful and complex patterns.
 
-<strong>A number associated with a Jira ticket/task would mean:</strong>  
+Want to understand this concept more? Watch this short YouTube video: (The Fibonacci Sequence: Nature's Code)[https://www.youtube.com/watch?v=wTlw7fNcO-0]
+
+
+<strong>The number associated with a task (often in the form of a ticket, usually a Jira ticket) can be interpreted as meaning:</strong>  
 1 = Takes less than a day to accomplish, sometimes 5 minutes, sometimes the full day  
 2 = 1-2 days  
-3 = 2-3 days  
-5 = 3-4 days  
-8 = 5-9 days  
-13 = usually won't see a 13 but means it'll take the entire sprint.  If you encounter a 13 what often happens is  
-it's something that can be broken up into smaller tasks, or multiple sprints.
+3 = 1-3 days  
+5 = 2-5 days  
+8 = 3-8 days  
+13 = 5-13 days 
 
-These numbers don't always mean the task will be accomplished in the timeframe first suspected. For example you  
-could be blocked due to a feature of the app/webpage being down, so even though it's a simple task you need to  
-perform, it just isn't accessible. Maybe it takes 3 days, or even a week, or maybe the entire project gets  
-scrapped. Such is life in the tech world. Learn to roll with the punches, relax, and realize there's always  
-something else you can do. 
+If you pay attention each number in a column IS IT'S OWN NUMBER SET OF THE FIBONACCI SEQUENCE!!! And if you're a nerd like me you find that pretty cool. The beauty of the fibonacci sequence in Sprint planning is it allows for flexibility, while simultaneously getting the most amount of work done as possible, simplifying a very complex monstor known as Software Development Life Cycle (SDLC). 
 
-In the the event of you've regression tested the crap out of everything, all your tickets are done, you've  
-helped your fellow QAs with their tickets well I'd argue perhaps another regression test isn't the best  
-thing. You don't want to burn yourself out doing redundant work so I have some **GOOD NEWS**...  
-YOU NOW HAVE TIME TO LEARN SOMETHING TO MAKE YOU EVEN MORE POWERFUL!  
+Usually you won't see a 13 but if you do, it typically means it will take the entire sprint. If you encounter a 13 what happens more often than not, is the task is revisited, and divided into smaller tasks. But hey, it's the tech field... sometimes there's a 13 and breaking it up doesn't make sense.
 
-You could:  
+As a QA most ofyour tasks will probably be 1,2,3, 5, and the occasional 8. These numbers don't always mean the task will be accomplished in the timeframe first suspected. For example you could be blocked due to a feature of the app/webpage being down, so even though it's a simple task that would only take 2 minutes to accomplish, you're left waiting for days. The number of your task doesn't change though, it just stays as is waiting in the blocked status until you can progress. Such is life in the tech world, so learn to roll with the punches, relax, and realize there's always something else you can do. Not to mention you're a more pleasant peron to work with when you show some patience and understanding towards your collegues.
+
+<h2>Things you can do when blocked in order TO BECOME EVEN MORE POWERFUL!!!:</h2>  
 1. Review your manual test documentation (testrail for exmple) and ensure that it's up to date with the latest  
 pushes.  
 2. Comb through automation scripts and see what you can do to make them more efficient, and more in tune with  
-best practices. For example, a QA reached out to me about a cy.wait() that seemed to make his test run a little  
-flakey (would fail half as much as it passed). I was able to do some research and found hard coded wait times,  
-even if they are making your test pass every time, can add uneccessary time on your code runs and chron jobs  
-(automation tests set up to run a number of times per day, or specific days of the week at designated times).  
-Turns out times so that your tests pass, and replace the timeout of the test time  
-Turns out you can redefine the timeout variable for any specific line of code in your test, or the entire  
-test yourself. This application to my collegues case made it so he could get his tests to pass consistently.  
-It also shaved minutes off of our repos code runs.  
+best practices. For example, a QA reached out to me about a cy.wait(3000) (3 seconds). Well what if it takes an element 5 seconds to load, but sometimes 2? What's the best way around that? You'll learn how to search key words on google to better track down that answer, and if you want some practice... go find it right now before reading the next sentence. ONE ANSWER I found was you could just change the timeout feature on your test, or the element itself you're waiting for through something like this "cy.get('#firstname', { timeout: 10000 })" This simple concept that none of us were aware of lead to my collegue updating our test scripts, not only making them pass concistently, but take even less time! So what the line above means is, "Keep trying to find this element for 10 seconds, after 10 seconds, fail the test if it hasn't appeared. This means if it takes half a second to appear well then that part of the test can pass in half a second... if it takes 9, then it takes 9 and still passes. This removed hard coded wait times from our test scripts shaving off minutes from our total test time.
 3. Learn how to do backend testing with APIs using POSTMAN. 
 4. Learn SQL which has direct application to POSTMAN and API testing.
 5. Learn Programming in a high level language like C#, JavaScript, or simpler programming in HTML/CSS. 
