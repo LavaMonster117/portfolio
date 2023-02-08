@@ -6,7 +6,8 @@ any and all software offiliated with their company.
 In other words... I had lost 9 months worth of notes of learning in an instant due to saving them as slack messages in  
 their workspace! So this is me going through that process again to retrieve as much as possible before I forget! They're  
 also nice to have when you get rusty and need to remember how to set up your repos, and push code to your github projects!  
-I hope this helps someone out :;):
+
+I hope this helps someone out!
 
 <h2>NAVIGATING/CREATING FILES ON YOUR COMPUTER</h2>
 
