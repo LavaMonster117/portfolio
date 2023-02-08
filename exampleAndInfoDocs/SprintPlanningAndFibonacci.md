@@ -1,4 +1,4 @@
-<h1>The Corelation of Fibonacci Sequence and Sprint Planning:</h1>
+<h1>The Corelation of The Fibonacci Sequence and Sprint Planning:</h1>
 
 <h3>Sprint - a period of time set asside for a team of developers, QAs, designers, and anyone else involved with completing a story, or an epic.</h3>
 
@@ -91,4 +91,4 @@ console.log(nextNum);}
 console.log(`\nYour Fibonacci sequence up to ${numPlaces} is:\n[${someArray}]`);
 ```
 
-<h3><em>CONGRATS!!! You're now a programmer! I'd get a few more skills under your belt before you go applying for any developer positions but I'm serious... you helped write a program, you ran the code, the code did what you expected, or if it didn't you hopefully fixed it, and if it did after that... You're a programmer</em></h3>
+<h4><em>CONGRATS!!! You're now a programmer! I'd get a few more skills under your belt before you go applying for any developer positions but I'm serious... you helped write a program, you ran the code, the code did what you expected, or if it didn't you hopefully fixed it, and if it did after that... You're a programmer. Don't believe me? Ask a developer. In the very least you're on your way to becoming a valuable member of a team in the Tech industry. The possibilities are endless!</em></h4>
