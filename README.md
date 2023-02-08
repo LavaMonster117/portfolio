@@ -25,7 +25,10 @@ Just started today 2/3/2023. I hope to make lots of mistakes so I can learn and 
 <h3>Note:</h3> 
 There are currently 2 contributors to this repo and both accounts ("LavaMonster117" and "VikingGhost117") are mine.
 
-<h3>Irrelevent to QA/About me info<h3>
+
+
+
+<h3>Irrelevent to QA/About me info</h3>
 <ul>
     <li><p>Born/raised in Utah. Served a mission for my church in Denmark and speak Danish semi-fluently. I keep up on it via: Discord, Facebook, Netflix, youtube and other Danish TV media outlets.</p></li>
     <li><p>Eagle Scout (favorite was learning how to make a life preserver out of my own clothes, as well as wilderness survival skills)</p></li>
