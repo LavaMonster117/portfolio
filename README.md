@@ -16,7 +16,7 @@ at future companies that may be unaware.
 
 <h1>This Repo's Agenda/To do List:</h1>
 <ul>
-    <li>Instructional How To's for setting up and using gitbash to push code to a repo, and set up Cypress.</li>
+    <li><p>Instructional How To's for setting up and using gitbash to push code to a repo, and set up Cypress.</p></li>
     <li>Find a website and demo real world examples of valuable automation tests to have in a company's arsenal, as well as good organization and file structure.</li>
 </ul>
 
