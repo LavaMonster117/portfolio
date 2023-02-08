@@ -30,14 +30,14 @@ There are currently 2 contributors to this repo and both accounts ("LavaMonster1
 
 <h3>Irrelevent to QA/About me info</h3>
 <ul>
-    <li><p>Born/raised in Utah. Served a mission for my church in Denmark and speak Danish semi-fluently. I keep up on it via: Discord, Facebook, Netflix, youtube and other Danish TV media outlets.</p></li>
-    <li><p>Eagle Scout (favorite was learning how to make a life preserver out of my own clothes, as well as wilderness survival skills)</p></li>
-    <li><p>I play:</p>
+    <li><>Born/raised in Utah. Served a mission for my church in Denmark and speak Danish semi-fluently. I keep up on it via: Discord, Facebook, Netflix, youtube and other Danish TV media outlets.</li>
+    <li><>Eagle Scout (favorite was learning how to make a life preserver out of my own clothes, as well as wilderness survival skills)</li>
+    <li><>I play:
         <ol>
-            <li><p>The drums (Foo Fighters, Sum 41, and Yellow Card's drum styles heavily influence my style).</p></li>
-            <li><p>The Piano... suck at reading notes but I somehow managed to learn "Claire De Lune" by memorizing it.</p></li>
-            <li><p>The guitar (written roughly 100 songs... of which 15 are probably actually worth listening to. My have a few different styles, mainly a Foo-Fighters-esque indi-rock, mild punk, and a Rochmoninov classical)</p></li>
+            <li><>The drums (Foo Fighters, Sum 41, and Yellow Card's drum styles heavily influence my style).</li>
+            <li><>The Piano... suck at reading notes but I somehow managed to learn "Claire De Lune" by memorizing it.</li>
+            <li><>The guitar (written roughly 100 songs... of which 15 are probably actually worth listening to. My have a few different styles, mainly a Foo-Fighters-esque indi-rock, mild punk, and a Rochmoninov classical)</li>
         </ol></li>
-    <li><p>I spend my free time gaming, writting, and learning tools for video game dev. I probably have roughly 500 pgs worth of ideas; story lines for books, movies, and games.</p></li>
+    <li><>I spend my free time gaming, writting, and learning tools for video game dev. I probably have roughly 500 pgs worth of ideas; story lines for books, movies, and games.</li>
 </ul>
 
