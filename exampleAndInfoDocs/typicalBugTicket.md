@@ -4,7 +4,7 @@
 - Slack Desktop App - Emoji Sub-Text Does Not Display
 
 <h2>Description:</h2>
-- When hovering over many different emojis in the emoji list to select from the sub-text nor image for the emoji does not populate
+- When hovering over many different emojis in the emoji list, the sub-text and image for the emoji doesn't appear.
 
 <h2>Preconditions:</h2>
 - Have a verified valid email and account connected on Slack
