@@ -63,7 +63,7 @@ you're getting raises and bonuses left and right and you're in the 6-figure club
 <h2>Some JavaScript I learned because as an unemployed man... I suddenly have a lot of time.</h2>
 Fibonacci Sequence described as code:
 
-you can copy and paste the code below into a<a href="https://onecompiler.com/javascript" JavaScript Compiler like this one/a>  
+you can copy and paste the code below into a<a href="https://onecompiler.com/javascript"> JavaScript Compiler like this one</a>  
   click the "Run" Button and see what pops out! I'd like to thank StackOverflow ;)
 
 
