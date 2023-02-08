@@ -60,11 +60,12 @@ the more responsibilities will be extended to you, and be fore you know it your 
 you're getting raises and bonuses left and right and you're in the 6-figure club.
 
 
-<h2>Some JavaScript I learned because as an unemployed man... I suddenly have a lot of time.</h2>
-Fibonacci Sequence described as code:
+<h2>The Fibonacci Sequence in JavaScript I learned because as an unemployed man... I suddenly have a lot of time.</h2>
 
-you can copy and paste the code below into a<a href="https://onecompiler.com/javascript"> JavaScript Compiler like this one</a>  
-  click the "Run" Button and see what pops out! I'd like to thank StackOverflow ;)
+1. Copy the code below 
+2. Paste the code into a <a href="https://onecompiler.com/javascript"> JavaScript Compiler like this one</a>  
+3. Click the "Run" Button and see what pops out! I'd like to thank StackOverflow ;)
+4. (optional) change the value of the "numTimes" variable from 10 to another whole number value.
 
 
 
