@@ -63,10 +63,13 @@ you're getting raises and bonuses left and right and you're in the 6-figure club
 <h2>The Fibonacci Sequence in JavaScript</h2>
 <em>Shoutout to StackOverflow and no I didn't just copy and paste! What kind of unemployed man with lots of time do you think I am?</em>
 
-1. Copy the code below 
-2. Paste the code into a <a href="https://onecompiler.com/javascript"> JavaScript Compiler like this one</a>  
-3. Click the "Run" Button and see what pops out!
-4. (optional) change the value of the "numTimes" variable from 10 to another whole number value.
+Complete the following steps to use the code below:  
+1. Copy the code below.
+2. Visit a <a href="https://onecompiler.com/javascript"> JavaScript Compiler like this one</a>.
+3. Either delete the "console.log("Hello, World!");" OR hit enter so your cursor is below that line of code.
+4. Paste the code.
+5. Click the "Run" Button and see what pops out!
+6. (optional) change the value of the "numTimes" variable from 10 to another whole number value, and repeat step 5.
 
 
 
