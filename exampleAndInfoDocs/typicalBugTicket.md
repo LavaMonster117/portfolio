@@ -22,9 +22,11 @@
 4. Hover mouse over any emoji after the first 5 rows.
 
 <h2>Result:</h2>
+
 - No subtext or emoji image populates field bottom left info box on step 3. On step 4 it does.
 
 <h2>Expected Result:</h2>
+
 - All Emojis respective icon and subtext populates the bottom left element
 
 <h2><a href="https://www.screencast.com/t/bVxHWD2Sdl">Link to see video demo of bug<a></h2>
