@@ -1,4 +1,4 @@
-<h1>The Corelation of The Fibonacci Sequence and Sprint Planning:</h1>
+<h1>The Corelation of The Fibonacci Sequence and Sprint Planning</h1>
 
 <h3>Sprint - a period of time set asside for a team of developers, QAs, designers, and anyone else involved with completing a story, or an epic.</h3>
 
@@ -38,15 +38,14 @@ Usually you won't see a 13 but if you do, it typically means it will take the en
 
 As a QA most ofyour tasks will probably be 1,2,3, 5, and the occasional 8. These numbers don't always mean the task will be accomplished in the timeframe first suspected. For example you could be blocked due to a feature of the app/webpage being down, so even though it's a simple task that would only take 2 minutes to accomplish, you're left waiting for days. The number of your task doesn't change though, it just stays as is waiting in the blocked status until you can progress. Such is life in the tech world, so learn to roll with the punches, relax, and realize there's always something else you can do. Not to mention you're a more pleasant peron to work with when you show some patience and understanding towards your collegues.
 
-<h2>Things you can do when blocked in order TO BECOME EVEN MORE POWERFUL!!!:</h2>  
+<h2>Things you can do when blocked in order TO BECOME EVEN MORE POWERFUL!!!</h2>  
 
 1. Review your manual test documentation (testrail for exmple) and ensure that it's up to date with the latest  
 pushes.  
-2. Comb through automation scripts and see what you can do to make them more efficient, and more in tune with  
-best practices. For example, a QA reached out to me about a cy.wait(3000) (3 seconds). Well what if it takes an element 5 seconds to load, but sometimes 2? What's the best way around that? You'll learn how to search key words on google to better track down that answer, and if you want some practice... go find it right now before reading the next sentence. ONE ANSWER I found was you could just change the timeout feature on your test, or the element itself you're waiting for through something like this "cy.get('#firstname', { timeout: 10000 })" This simple concept that none of us were aware of lead to my collegue updating our test scripts, not only making them pass concistently, but take even less time! So what the line above means is, "Keep trying to find this element for 10 seconds, after 10 seconds, fail the test if it hasn't appeared. This means if it takes half a second to appear well then that part of the test can pass in half a second... if it takes 9, then it takes 9 and still passes. This removed hard coded wait times from our test scripts shaving off minutes from our total test time.
-3. Learn how to do backend testing with APIs using POSTMAN. 
-4. Learn SQL which has direct application to POSTMAN and API testing.
-5. Learn Programming in a high level language like C#, JavaScript, or simpler programming in HTML/CSS. 
+2. Comb through automation scripts and see what you can do to make them more efficient, and more in tune with best practices. For example, a QA reached out to me about a cy.wait(3000) (3 seconds). Well what if it takes an element 5 seconds to load on some test runs, and then half a second on others? What's the best way to handle both scenarios to ensure your test is running as fast as possible every time? ONE WAY I found through was "cy.get('#firstname', { timeout: 10000 })". Let me translate that to English: This means if it takes any amount of time less than 10 seconds, pass that part of the test and move on and don't wait any longer; Otherwise fail after 10 seconds. This can replace cy.wait() times hardcoded into your tests and shave minutes from your total test time.
+4. Learn how to do backend testing with APIs using POSTMAN. 
+5. Learn SQL which has direct application to POSTMAN and API testing.
+6. Learn Programming in a high level language like C#, JavaScript, or simpler programming in HTML/CSS. 
 
 In the event of risking burnout it's important to get up, do something else, play a game, go for a walk,  
 lift some weights, watch a show, clean your place, make some food. It's better to have good energy when  
