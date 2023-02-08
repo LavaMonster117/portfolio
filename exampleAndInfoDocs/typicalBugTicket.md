@@ -38,6 +38,7 @@
 
 
 <h1>OTHER PRACTICES TO CONSIDER BEFORE SUBMITTING A BUG TICKET:</h1>
+
 - Reach out to other QAs and see if they can replicate the bug
 - Repeat the steps again ensuring cache and cookies have been cleared, and browser is in incognito
 - Type in key words to search if this bug ticket already exists to save yourself from redundancy, and add anything important that may be missing in the ticket if it does exist
