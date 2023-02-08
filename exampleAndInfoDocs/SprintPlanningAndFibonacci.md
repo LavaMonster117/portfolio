@@ -77,9 +77,9 @@ let secondNum = 1;
 let answer = 0;  
 let someArray = [];
 
-let numTimes = 10 // change this value for how many times you want to repeat the sequence
+let numPlaces = 10 // change this value for how many times you want to repeat the sequence
 
-for (let i = 1, j = 0; i <= numTimes; i++, j++){  
+for (let i = 1, j = 0; i <= numPlaces; i++, j++){  
 nextNum = firstNum + secondNum;  
 firstNum = secondNum;  
 secondNum = nextNum;  
