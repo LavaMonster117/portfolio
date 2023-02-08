@@ -21,7 +21,7 @@ So when we talk about sprint planning, your team sits around and discusses and a
 The Sequence: 1,2,3,5,8,13, etc.  
 Can you see the pattern? you take the first number and add it to the second number to get the third number (1+2 = 3); the second plus the third to get the fourth (2+3 = 5) and so on. It is a sequence that can be found in nature, and often results in the most visually beutiful and complex patterns.
 
-Want to understand this concept more? Watch this short YouTube video: (Nature's Code)[https://www.youtube.com/watch?v=wTlw7fNcO-0]
+Want to understand this concept more? Watch this short YouTube video: <a href="https://www.youtube.com/watch?v=wTlw7fNcO-0">Nature's Code</a>.
 
 
 <strong>The number associated with a task (often in the form of a ticket, usually a Jira ticket) can be interpreted as meaning:</strong>  
@@ -63,8 +63,8 @@ you're getting raises and bonuses left and right and you're in the 6-figure club
 <h2>Some JavaScript I learned because as an unemployed man... I suddenly have a lot of time.</h2>
 Fibonacci Sequence described as code:
 
-you can copy and paste the code below into: https://onecompiler.com/javascript
-click the "Run" Button and see what pops out! I'd like to thank StackOverflow ;)
+you can copy and paste the code below into a<a href="https://onecompiler.com/javascript" JavaScript Compiler like this one/a>  
+  click the "Run" Button and see what pops out! I'd like to thank StackOverflow ;)
 
 
 
