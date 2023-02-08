@@ -21,7 +21,7 @@ So when we talk about sprint planning, your team sits around and discusses and a
 The Sequence: 1,2,3,5,8,13, etc.  
 Can you see the pattern? you take the first number and add it to the second number to get the third number (1+2 = 3); the second plus the third to get the fourth (2+3 = 5) and so on. It is a sequence that can be found in nature, and often results in the most visually beutiful and complex patterns.
 
-Want to understand this concept more? Watch this short YouTube video: (The Fibonacci Sequence: Nature's Code)[https://www.youtube.com/watch?v=wTlw7fNcO-0]
+Want to understand this concept more? Watch this short YouTube video: (Nature's Code)[https://www.youtube.com/watch?v=wTlw7fNcO-0]
 
 
 <strong>The number associated with a task (often in the form of a ticket, usually a Jira ticket) can be interpreted as meaning:</strong>  
@@ -39,6 +39,7 @@ Usually you won't see a 13 but if you do, it typically means it will take the en
 As a QA most ofyour tasks will probably be 1,2,3, 5, and the occasional 8. These numbers don't always mean the task will be accomplished in the timeframe first suspected. For example you could be blocked due to a feature of the app/webpage being down, so even though it's a simple task that would only take 2 minutes to accomplish, you're left waiting for days. The number of your task doesn't change though, it just stays as is waiting in the blocked status until you can progress. Such is life in the tech world, so learn to roll with the punches, relax, and realize there's always something else you can do. Not to mention you're a more pleasant peron to work with when you show some patience and understanding towards your collegues.
 
 <h2>Things you can do when blocked in order TO BECOME EVEN MORE POWERFUL!!!:</h2>  
+
 1. Review your manual test documentation (testrail for exmple) and ensure that it's up to date with the latest  
 pushes.  
 2. Comb through automation scripts and see what you can do to make them more efficient, and more in tune with  
@@ -82,6 +83,5 @@ firstNum = secondNum;
 secondNum = nextNum;  
 someArray[j] = nextNum;   
 console.log(nextNum);}
-
 console.log(`\nYour Fibonacci sequence is:\n${someArray}`);
 ```
