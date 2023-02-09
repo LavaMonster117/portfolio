@@ -12,17 +12,17 @@ I hope this helps someone out!
 <h2>NAVIGATING/CREATING FILES ON YOUR COMPUTER</h2>
 
 ```
-- "cd folderName" = changes directory
-- "ls" = lists contents of current directory
-- "mkdir testDirectory" = Makes a new directory/folder in current file location named "testDirectory"
-- "touch nameOfFile.txt" = makes a file of type ".txt". You can make multiple files in the same line with a space of multiple file types specified (for example: .html, .js .css). You can also use this same principle with "mkdir firstDirectory secondDirectory thirdDirectory"
+- cd folderName = changes directory
+- ls = lists contents of current directory
+- mkdir testDirectory = Makes a new directory/folder in current file location named "testDirectory"
+- touch nameOfFile.txt = makes a file of type ".txt". You can make multiple files in the same line with a space of multiple file types specified (for example: .html, .js .css). You can also use this same principle with "mkdir firstDirectory secondDirectory thirdDirectory"
 ```
 <h2>GET REPO FROM GITHUB PROJECT</h2>
 
 ```
-- "git clone "RepoName/example"" = clones a repo/project from github into whatever current file location you're in.
-- "git pull" = When on main or master branch, this command pulls any changes from the github repo to your current locally cloned repo. (GOOD PRACTICE to do this before starting any new branches)
-- "git pull origin main" = After doing a "git pull" to your local main branch, you can switch branches, typ in this command, and that will pull down changes from the local main to your local branch. This is important to avoid conflicts and that you're up to date with the current repo. (GOOD PRACTICE)
+- git clone "RepoName/example" = clones a repo/project from github into whatever current file location you're in.
+- git pull = When on main or master branch, this command pulls any changes from the github repo to your current locally cloned repo. (GOOD PRACTICE to do this before starting any new branches)
+- git pull origin main = After doing a "git pull" to your local main branch, you can switch branches, typ in this command, and that will pull down changes from the local main to your local branch. This is important to avoid conflicts and that you're up to date with the current repo. (GOOD PRACTICE)
 ```
 
 <h2>BRANCHES</h2>
