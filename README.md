@@ -7,7 +7,7 @@
 <ul>
     <li>Instructional How To's for setting up and using gitbash to push code to a repo, and set up Cypress.</li>
     <li>Find a website and demo real world examples of valuable automation tests to have in a company's arsenal, as well as good organization and file structure.</li>
-    <li>To keep up with my planning/To Do list, take a look at my <a href="https://github.com/LavaMonster117/portfolio/projects?query=is%3Aopen">projects</a>, <a  href"https://github.com/LavaMonster117/portfolio/milestones">milestones</a>, and <a href="https://github.com/LavaMonster117/portfolio/issues"> issues</a> that have been created, am working on, and have closed/finished. Otherwise, whatever's in the document list is what's been accomplished.</li>
+    <li>To keep up with my planning/To Do list, take a look at my <a href="https://github.com/LavaMonster117/portfolio/projects?query=is%3Aopen">projects</a>, <a href="https://github.com/LavaMonster117/portfolio/issues"> issues</a>, and <a href="https://github.com/LavaMonster117/portfolio/milestones">milestones</a>; that I've created, am working on, and have closed. By default those links will take you to the open cases, simply click "Closed" next to the word open on the page an you'll see what's been done; OR just browse the files above to see what's been accomplished.</li>
 </ul>
 
 <h3>CONTRIBUTORS NOTE:</h3> 
