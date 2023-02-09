@@ -7,6 +7,7 @@
 <ul>
     <li>Instructional How To's for setting up and using gitbash to push code to a repo, and set up Cypress.</li>
     <li>Find a website and demo real world examples of valuable automation tests to have in a company's arsenal, as well as good organization and file structure.</li>
+    <li>To keep up with my planning/To Do list, take a look at my projects, milestones, and issues that have been created, am working on, and have closed/finished. Otherwise, whatever's in the document list is what's been accomplished.</li>
 </ul>
 
 <h3>CONTRIBUTORS NOTE:</h3> 
