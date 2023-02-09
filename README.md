@@ -6,7 +6,7 @@
 <h1>This Repo's Agenda/To do List:</h1>
 <ul>
     <li>Instructional How To's for setting up and using gitbash to push code to a repo, and set up Cypress.</li>
-    <li>Find a website and demo real world examples of valuable automation tests to have in a company's arsenal, as well as good organization and file structure.</li>
+    <li>Find a website and demo real world examples of valuable automation tests to have in a company's arsenal, as well as create a well organized Testrail/Test Suite mock-up (aka the filing structure of my manual and automation tests).</li>
     <li>To keep up with my planning/To Do list, take a look at my <a href="https://github.com/LavaMonster117/portfolio/projects?query=is%3Aopen">projects</a>, <a href="https://github.com/LavaMonster117/portfolio/issues"> issues</a>, and <a href="https://github.com/LavaMonster117/portfolio/milestones">milestones</a>; that I've created, am working on, and have closed. To see what's been accomplished at those links remember to click the "Closed" button at the top of the window because by default it loads on "Open" issues, projects, and milestones; otherwise simply browse the files above. If you get lost you can always click the "<> Code" tab at the top of the page.</li>
 </ul>
 
