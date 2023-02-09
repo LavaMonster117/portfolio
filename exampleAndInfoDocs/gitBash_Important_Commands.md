@@ -60,7 +60,8 @@ In most cases for working on a company's software you'll need to set up an SSH k
 
 
 <h2>BONUS FRIES</h2>  
-<em>"My cousin's term for when you're out of fries... but then you find one hidding in the bag... thanks cuz."</em>  
+<em>"My cousin's term for when you're out of fries... but then you find one hidding in the bag... thanks cuz."</em> 
+
 ```
 - Pressing "CTRL + C" = terminates the process of your gitbash... for example you don't want to finish pushing your branch because you forgot to save when you did all - that stuff up above here, or you want to close your cypress automation code run
 - Pressing "CTRL + shift + ~" in VS Code auto opens a terminal, which you can specify to being gitbash, or command prompt or whatever terminal you prefer to use.
