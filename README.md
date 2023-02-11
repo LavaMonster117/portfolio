@@ -15,7 +15,7 @@ There are currently 2 contributors to this repo and both accounts ("LavaMonster1
 
 <h3>Irrelevent to QA/Uselless Facts About Me:</h3>
 <li>I'm a writer (Books, Scripts, Comic strips, Video game dev); a musician (drums, guitar, piano), and recently working on creating custom assets via Blender. I'd like to think of myself as heavy on the creative side.</li>
-<li>Born/raised in Utah. Served a mission for my church (The Church of Jesus Christ of Latter-Day Saints) for 2 years on my own dime in Denmark, and speak Danish semi-fluently. I try to keep up on it via: Discord, Facebook, and other Danish media outlets.</li>
+<li>Born/raised in Utah. Served a 2-year mission for my church in Denmark, and speak Danish semi-fluently. I try to keep up on it via: Discord, Facebook, and other Danish media outlets.</li>
 <li>Eagle Scout (favorite was learning how to make a life preserver out of my own clothes, starting fires with a stick and a shoe lace, and general survival skills.</li>
 
 
