@@ -55,7 +55,7 @@ I hope this helps someone out!
 - git push origin branchName:README.md = pushes your branch and specific File (in this example the README.md file) in the branch to the github to be reviewed and committed
 ```
 
-In most cases for working on a company's software you'll need to set up an SSH key which is basically a key/password that grants you access to the company repos before you can start viewing the code and committing changes. You'll want to save that key somewhere in case it comes up and asks for it again otherwise I'm currently unaware if it's retrievable... I should be but I just don't know how to do that yet because I haven't had to deal with that problem.
+In most cases for working on a company's software you'll need to set up an SSH key which is basically a key/password that grants you access to the company repos before you can start viewing the code and committing changes. You'll want to save that key somewhere in case it comes up and asks for it again otherwise I'm currently unaware if it's retrievable... It should be but I just don't know how to do that yet because I haven't had to deal with that problem.
 
 
 
