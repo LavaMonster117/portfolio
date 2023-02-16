@@ -39,7 +39,7 @@ I hope this helps someone out!
 
 ```
 - git config -- global user.email "yourEmail@wherever.com" = assigns your email to your system/terminal so github can identify you.
-- git config --global user.name "Your Name"" = assigns your name to your system/terminal so github can identify you.
+- git config --global user.name "Your Name" = assigns your name to your system/terminal so github can identify you.
 
 - git add . = adds all files and changes in your branch/directory that you want to push to the repo
 - git commit -m "some description message" = This adds a message/description of whatever you want to say here, typically what you're pushing and what it does. You can aslo manually add a message in the github repo webpage, but this saves you that step."
