@@ -18,7 +18,3 @@ There are currently 2 contributors to this repo and both accounts ("LavaMonster1
 <li>Born/raised in Utah. Served a 2-year mission for my church in Denmark, and speak Danish semi-fluently. I try to keep up on it via: Discord, Facebook, and other Danish media outlets.</li>
 <li>Eagle Scout (favorite was learning how to make a life preserver out of my own clothes, starting fires with a stick and a shoe lace, and general survival skills.</li>
 
-
-
-<h1>THIS IS A TEST</h1>
-
