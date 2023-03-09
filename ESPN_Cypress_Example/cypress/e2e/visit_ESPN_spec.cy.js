@@ -1,6 +1,7 @@
 describe('just installing and testing if cypress is working as expected', () =>{
 
   before(() => {
+    //you may want to change veiwport parameters to better match your display
     const WIDTH = 1600
     const HEIGHT = 800
 
