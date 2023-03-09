@@ -2,6 +2,7 @@ describe('just installing and testing if cypress is working as expected', () =>{
 
   before(() => {
     //you may want to change veiwport parameters to better match your display
+    //Make Sure your gitbash file location is /ESPN_Cypress_Example so your 'npx cypress open' actually opens cypress
     const WIDTH = 1600
     const HEIGHT = 800
 
