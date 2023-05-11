@@ -60,4 +60,4 @@
 - Do your screenshots and videos adequately demonstrate the bug? Can the video be shortened (if possible try to keep less than 1 min.)?
   
  <h3>How'd I Find This Bug?</h3>
- - I was simply using the app and noticed when leaving an emoji reaction on a colleague's post.
+ - I was simply using the app and noticed when leaving an emoji reaction on a colleague's post. The more you QA the more you pick up on minor details like that in your everyday software use. Want to do the world a favor? Submit your finding's to the company and who knows, maybe they'll reply with a job offer eh? The customer base and culture for any software I'd argue is just as vital in improving any company's software... ideally the people they pay to find these bugs find them before market but hey, sometimes little things get through.
