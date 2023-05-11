@@ -29,8 +29,6 @@
 
 - All Emojis respective icon and subtext populates the bottom left element
 
-<h2><a href="https://www.screencast.com/t/bVxHWD2Sdl">Link to see video demo of bug<a></h2>
-
 <h2>ACCEPTANCE CRITERIA:</h2>
   
 - That the first 5 rows behave the same as the rest of the emojis, populating their sub-info and image in the bottom left of the emoji options window.
@@ -41,6 +39,7 @@
 - Using: Slack Desktop App
 - Date discovered: 2/2/2023 approx 6:00 PM (MDT)
 
+<h2><a href="https://www.screencast.com/t/bVxHWD2Sdl">Link to see video demo of bug<a></h2>
   
 <h2>SCREENSHOTS</h2>
 
