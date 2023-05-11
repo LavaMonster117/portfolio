@@ -58,3 +58,6 @@
 - Type in key words to search if this bug ticket already exists to save yourself from redundancy, and add anything important that may be missing in the ticket if it does exist.
 - Talk to your devs or whoever you're designated to talk to to ensure it's actually a bug and not part of the functionality.
 - Do your screenshots and videos adequately demonstrate the bug? Can the video be shortened (if possible try to keep less than 1 min.)?
+  
+  <h3>How'd I Find This Bug?</h3>
+  - I was simply using the app and noticed when leaving an emoji reaction on a colleague's post.
