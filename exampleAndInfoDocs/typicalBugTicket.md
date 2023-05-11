@@ -52,8 +52,9 @@
 
 <h1>OTHER PRACTICES TO CONSIDER BEFORE SUBMITTING A BUG TICKET:</h1>
 
-- Reach out to other QAs and see if they can replicate the bug
-- Repeat the steps again ensuring cache and cookies have been cleared, and browser is in incognito
-- Type in key words to search if this bug ticket already exists to save yourself from redundancy, and add anything important that may be missing in the ticket if it does exist
-- Talk to your devs or whoever you're designated to talk to to ensure it's actually a bug and not part of the functionality
+- Reach out to other QAs and see if they can replicate the bug.
+- Repeat the steps again ensuring cache and cookies have been cleared, and browser is in incognito (if applicable).
+- Repeat steps in a different browser (if applicable).
+- Type in key words to search if this bug ticket already exists to save yourself from redundancy, and add anything important that may be missing in the ticket if it does exist.
+- Talk to your devs or whoever you're designated to talk to to ensure it's actually a bug and not part of the functionality.
 - Do your screenshots and videos adequately demonstrate the bug? Can the video be shortened (if possible try to keep less than 1 min.)?
