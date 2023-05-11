@@ -41,6 +41,11 @@
 - Using: Slack Desktop App
 - Date discovered: 2/2/2023 approx 6:00 PM (MDT)
 
+  
+<h2>SCREENSHOTS</h2>
+  ![Click_FindAnotherReaction_Btn](https://github.com/LavaMonster117/portfolio/assets/124396791/be005437-c149-48b6-821a-8fcfa151802e)
+  ![bug](https://github.com/LavaMonster117/portfolio/assets/124396791/35d80c88-5126-40b4-bde1-ea457585cbac)
+  ![commandPresent](https://github.com/LavaMonster117/portfolio/assets/124396791/f920eb37-786e-4b26-883e-79992171fe11)
 
 
 <h1>OTHER PRACTICES TO CONSIDER BEFORE SUBMITTING A BUG TICKET:</h1>
