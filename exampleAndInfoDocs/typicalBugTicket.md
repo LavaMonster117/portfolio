@@ -43,9 +43,11 @@
 
   
 <h2>SCREENSHOTS</h2>
-  ![Click_FindAnotherReaction_Btn](https://github.com/LavaMonster117/portfolio/assets/124396791/be005437-c149-48b6-821a-8fcfa151802e)
-  ![bug](https://github.com/LavaMonster117/portfolio/assets/124396791/35d80c88-5126-40b4-bde1-ea457585cbac)
-  ![commandPresent](https://github.com/LavaMonster117/portfolio/assets/124396791/f920eb37-786e-4b26-883e-79992171fe11)
+
+![Click_FindAnotherReaction_Btn](https://github.com/LavaMonster117/portfolio/assets/124396791/1dd1fe39-fbf0-4a71-bd17-c15efdcceb63)
+![commandPresent](https://github.com/LavaMonster117/portfolio/assets/124396791/37074820-7ebb-460a-8957-7a5dc1148b31)
+![bug](https://github.com/LavaMonster117/portfolio/assets/124396791/8d3d1f26-f97d-4d07-a036-7e441e2c20c5)
+
 
 
 <h1>OTHER PRACTICES TO CONSIDER BEFORE SUBMITTING A BUG TICKET:</h1>
