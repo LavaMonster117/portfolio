@@ -1,3 +1,5 @@
+UPDATE: as of 9/11/2023 I am no longer working on my QA portfolio since I recieved a COBOL Developer postion for AFCU. However feel free and browse. I do not know whether I will return to finish this QA Automation project I embarked on 7 months ago. All I can say is be flexible, keep learning, and you'll land in the Tech field sooner or later. Good luck Nerds!
+
 <h1>Welcome to My Portfolio!</h1>
 <em><p>My goal here is to adequately showcase my Manual and Automation QA skills, share what I've learned, and update this portfolio with best practices over time as I refine my skills. This will also act as a teaching environment for people I know who are interested in becoming a QA Engineer. My hopes are to establish a valuable repo to draw from if I were ever to be part of establishing a QA department for a startup, or in the event I become rusty with certain tools and need a refresher, I can just come right back here. Wherever I work, I plan to grow my repo, and hopefully contribute good practices from mine to theirs. Win Win's the goal.</p>
     
